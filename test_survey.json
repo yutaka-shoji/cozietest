@@ -2,7 +2,7 @@
   "survey_name": "Example Survey",
   "survey_id": "example_survey",
   "survey": [{
-      "question": "How would you prefer to be?",
+      "question": "(Meow) would you prefer to be?",
       "question_id": "q_thermal",
       "response_options": [{
           "text": "Cooler",
